@@ -7,5 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-headingx
+Work and Internship Experience
 ======
+
+Oct - Dec 2022: Internship at A*STAR Institute of High-Performance Computing, Electronics and Photonics Department
+------
+After the completion of my 2022 end-of-year examinations, I completed a student attachment at A*STAR's Institute of High-Performance Computing (IHPC), under the Electronics and Photonics department, to work on the modelling and simulation of efficient quantum photonics components, specifically avalanche photodiodes. Despite having little experience in this field, I had the chance to devote many hours into the reading and collation of literature to bring myself up to date with relevant background knowledge on silicon photonics and electrodynamics. First, I completed courses on and developed my proficiency with the Ansys Lumerical optical and electrical simulation software, Finite-Difference Time Domain (FDTD) and CHARGE solvers respectively.
+
+Next, I experimented with the methodology and trade-offs associated with converting 2-dimensional simulations into their 3-dimensional counterparts, as well as attempting to get a more accurate result by using a finer mesh with a smaller maximum step size. Both of these processes face restraints regarding memory and time requirements. This led me to the discovery of how researchers mitigate these issues by taking advantage of properties such as the symmetry of the avalanche photodiode, which would thus enable the simulation of just half of the object, noticeably reducing memory and time requirements.
+
+Afterward, I repeated the process to obtain results on the efficiency of single-photon avalanche diodes, as demonstrated by existing literature, to experience the way researchers conduct parameter sweeps to analyse the efficiency for varying waveguide widths and corresponding photodiode widths, which finally contributes to the optimisation of avalanche photodiode geometry and design.
