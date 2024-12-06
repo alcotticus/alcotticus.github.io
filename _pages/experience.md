@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Work and Internship Experience
+Work Experience
 ======
 
 Oct - Dec 2022: Internship at A*STAR Institute of High-Performance Computing, Electronics and Photonics Department
