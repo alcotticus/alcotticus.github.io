@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-PDF of CV can be viewed [here](https://alcotticus.github.io/files/2024cv.pdf)
+PDF of CV can also be viewed [here](https://alcotticus.github.io/files/2024cv.pdf)
 
 <iframe src="https://docs.google.com/gview?url=https://alcotticus.github.io/files/2024cv.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>

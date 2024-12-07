@@ -10,14 +10,15 @@ redirect_from:
 Hi! Welcome to my portfolio. This website serves as a personal archive of my academically significant work, documenting my evolving interests in physics and engineering.
 
 **Navigation**
-* Portfolio
+* <a href="/portfolio/">Portfolio</a>
   * An archive of the projects that I'm most proud of, including the Extended Essay and Internal Assessments completed over the course of the International Baccalaureate Programme. 
-* Experience
+* <a href="/experience/">Experience</a>
   * A record of an my reflections on work or internships, including skills and proficiencies gained.
-* CV
+* <a href="/cv/">CV</a>
   * A PDF copy of my CV is available for download.
-* Updates
+* <a href="/updates/">Updates</a>
   * A sneak peek at upcoming projects I'm working on.
+
 
 
 About Me
