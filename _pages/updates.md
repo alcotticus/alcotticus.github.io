@@ -5,5 +5,13 @@ permalink: /updates/
 author_profile: true
 ---
 
-Current updates
+{% include base_path %}
+
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
 ======
+
