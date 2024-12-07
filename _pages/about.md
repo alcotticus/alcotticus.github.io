@@ -22,7 +22,7 @@ Hi! Welcome to my portfolio. This website serves as a personal archive of my aca
 
 About Me
 ======
-I'm Rayna, a recent graduate of the International Baccalaureate Diploma Programme at Anglo-Chinese School (Independent), having sat for the November 2024 examination session. Currently, I'm looking to further develop my programming skills while awaiting entry to a electrical and mechanical engineering course in the Fall 2025 cycle. I hope to channel my enthusiasm for problem-solving (particularly in physics!) to find creative and elegant methods useful in real-world applications.
+I'm Rayna, a recent graduate of the International Baccalaureate Diploma Programme at Anglo-Chinese School (Independent), having sat for the November 2024 examination session. Currently, I'm looking to further develop my programming skills while awaiting entry to an electrical and mechanical engineering course in the Fall 2025 cycle. I hope to channel my enthusiasm for problem-solving (particularly in physics!) to find creative and elegant methods useful in real-world applications.
 
 
 Education History
