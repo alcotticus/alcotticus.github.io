@@ -16,8 +16,8 @@ Hi! Welcome to my portfolio. This website serves as a personal archive of my aca
   * A record of an my reflections on work or internships, including skills and proficiencies gained.
 * <a href="/cv/">CV</a>
   * A PDF copy of my CV is available for download.
-* <a href="/updates/">Updates</a>
-  * A sneak peek at upcoming projects I'm working on.
+* <a href="/others/">Others</a>
+  * A collection of miscellaneous personal interests and smaller projects.
 
 
 
