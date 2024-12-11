@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to my portfolio. This website serves as a personal archive of my academically significant work, documenting my evolving interests in physics and engineering.
+Hi! Welcome to my portfolio. This website serves as a personal archive of my important work, documenting my evolving interests in physics and engineering.
 
 **Navigation**
 * <a href="/portfolio/">Portfolio</a>
